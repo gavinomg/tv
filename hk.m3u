@@ -10,7 +10,7 @@ http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 http://m.567it.com/jade.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-http://hk4-edge18-1.edgeware.tvb.com/session/499b7e74-a316-11ea-913b-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=c682d22840c8237adf11f372e8408687_1590999070_1590999070
+http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1591091699~exp=1591178099~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=c4edcae2e47becd98258406fbd34ed0d021ff900e5a6b5c724bc2c7316e4239d
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1590907826~exp=1590994226~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=8275cb9c38ed9c09028f7cf3a65ccc22c2019eb2b4270e6e27ad8a7285d48c70
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 96
