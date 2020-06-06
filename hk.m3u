@@ -12,7 +12,10 @@ http://m.567it.com/jade.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1591450426~exp=1591536826~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4ff5b492ccd6b08112bde53075771172b490f06dda7bfd5cf03b1604c1ad6d7f#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 96
+http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1591450426~exp=1591536826~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4ff5b492ccd6b08112bde53075771172b490f06dda7bfd5cf03b1604c1ad6d7f
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobile_news_windows1.smil/playlist.m3u8?hdnea=st=1591450866~exp=1591537266~acl=/newslive/smil:mobile_news_windows1.smil/*~hmac=f24d5926783e766bf5c86b051b5c17901a8cdc82f4b8788214572cacf5d2e25f
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 96
 http://hls.globaliptv.ml/viu96.php
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 99
 http://hls.globaliptv.ml/viu99.php
