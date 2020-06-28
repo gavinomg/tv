@@ -12,7 +12,7 @@ http://m.567it.com/jade.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港澳台",无线新闻台
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港澳台",无线新闻台
-http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1591701435~exp=1591787835~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=459e63b27cca8bc01fa706a13f0002141cd5c24f62b495047de0dbb89ac4cc72
+http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1593316624~exp=1593403024~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=2d4c76fec1590abbaebaaa64c02f0df00685c3d841bcffcdf35e237e327042c3
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 96
 http://hls.globaliptv.ml/viu96.php
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 99
