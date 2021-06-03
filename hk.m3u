@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="澳门",澳视澳门
-http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="AoShiAoMen.cn" tvg-name="澳视澳门" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳视澳门 (720p)
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 tvg-id="AoMen1.cn" tvg-name="澳门1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳门1 (720p)
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 tvg-id="AoMen2.cn" tvg-name="澳门2" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳门2 (720p)
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳视综艺
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫星频道
@@ -103,7 +109,18 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" tvg-country="HK" tvg-url="" group-title="",鳳凰衛視電影台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTM3U
+#EXTINF:-1 tvg-id="GuangZhouXinWen.cn" tvg-name="广州新闻" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州新闻
+http://149.129.100.78/gztv.php?id=xinwen
+#EXTINF:-1 tvg-id="GuangZhouNanGuoDuShi.cn" tvg-name="广州南国都市" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州南国都市
+http://149.129.100.78/gztv.php?id=shenghuo
+#EXTINF:-1 tvg-id="GuangZhouNanGuoDuShi.cn" tvg-name="广州南国都市" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州南国都市
+https://iptv--iptv.repl.co/Chinese/shenghuo/
+#EXTINF:-1 tvg-id="GuangZhouZongHe.cn" tvg-name="广州综合" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州综合
+http://149.129.100.78/gztv.php?id=zhonghe
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",CCTV-1
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV中国中央电视台-1 综合
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",ANAL
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
