@@ -3,6 +3,8 @@
 http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBA
 http://bf.moonmagic.cn/live/hd-en-2-3602768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive2" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBA2
+https://pull.sdsft.cn/live/hd-en-2-3602768_hd.m3u8?auth_key=1672416000-88-0-42c29f327596876356fca11c483bc691
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="AoShiAoMen.cn" tvg-name="澳视澳门" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳视澳门 (720p)
