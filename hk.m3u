@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBA
+http://bf.moonmagic.cn/live/hd-en-2-3602768.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="AoShiAoMen.cn" tvg-name="澳视澳门" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳视澳门 (720p)
