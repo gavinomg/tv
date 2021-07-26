@@ -53,6 +53,12 @@ https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",日本全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东体育
+https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=3ae53b64cabb679057730ab78b69fcd5-UZbZVNEaM7DGvM%2BjJ8Wn3%2B8dkSmYMxJg3lvJznvQD%2FpXrhadutTQG7BVVDBb01a%2BRIncFx3PN3Hjvj4adLMwaSg1%2FLy8qv6aTfFCL4XBHKoeo%2FCLosA7H7tJv%2BeqSKCsLwoIF%2BIDjBmEDZCRqkfCP%2BUEKohgYqvBvIbNzGSqvfhbXU30xiX8oL7SCjDJc4JE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东珠江
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=4b90da3c8bc350ea13ae7c4302e077a2-07QhJwEhiygC0dCAQ5g%2BcwDPnk%2FwS%2FQ7BBz9X6M0PhvMFykexdDdBqe70yaMJ8B4TnLa39PggbbVpCi%2FAdRZQBXPbAY%2FQ01byxGUsDz8nhGr2ov9yfUtdhSQpsAEuZvjyYW4ooFVuWrDeIvyScyXrYXgiURzzntq3EXPbzQvx%2BonV1e3JbsELgngabLeJp8D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东新闻
+https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=c6892707e285cf88dd847c0e7b4833f6-0kXCRdCRkoVIWC1HNH2Mleo58GHlSkJB936I%2BnqSBWEQzCLcDJ75Nc%2BNs%2FIU58%2Foo1mzvob2Btl%2F5ix5e8LRjXLV4%2FU0bfY3h7EAnsuifoDcM97spQvaK35M1Vaowh3Zd17usjJKZLvM6YVv9IQcDzYK6Fc8RrcsQwlJeQnuZf1%2F5wuvJwhsnwP7LVZkh6Eh
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",有线综合娱乐
 https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="大陆",湖南卫视
