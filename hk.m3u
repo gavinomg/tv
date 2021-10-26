@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",TVB翡翠台
+https://jade.hkdtmb.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Sports",广东体育
 http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBALive1
