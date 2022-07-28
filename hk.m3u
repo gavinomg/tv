@@ -5,6 +5,8 @@ http://120.84.96.160:808/hls/25/index.m3u8
 http://120.84.96.160:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
+https://play.sngdxsn.com/live/eefbac50d8b2653dd37c288e7dbb9fa3.flv
 #EXTINF:-1 tvg-id="126" tvg-name="J2" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="香港",J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港",无线新闻台
