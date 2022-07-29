@@ -8,19 +8,19 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
 https://play.sngdxsn.com/live/eefbac50d8b2653dd37c288e7dbb9fa3.flv
 #EXTINF:-1 tvg-id="126" tvg-name="J2" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="香港",J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港",无线新闻台
-https://cdn.hkdtmb.com/hls/83/index.m3u8
+https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="明珠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/pearl.jpg" group-title="香港",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="无线财经台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="香港",无线财经台
-https://cdn.hkdtmb.com/hls/85/index.m3u8
+https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV 96
-https://cdn.hkdtmb.com/hls/96/index.m3u8
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV 99
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",HK开电视
-https://cdn.hkdtmb.com/hls/77/index.m3u8
+https://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="Sports",广东体育
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBALive1
