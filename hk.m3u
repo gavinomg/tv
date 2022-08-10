@@ -18,30 +18,28 @@ https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 99
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",HK开电视
-https://cdn.hklive.tv/xxxx/77/index.m3u8
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5,CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门 (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳视澳门 (720p)
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门1 (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门1 (720p)
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门2 (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门2 (720p)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳视综艺
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门卫星频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门卫星频道
 http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门
 http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",C+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",C+
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
@@ -53,39 +51,39 @@ http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8
 http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门-MACAU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门-MACAU
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门综艺
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门资讯
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",C+频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",C+频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Channel
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Star Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亚旅卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有线综合娱乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线综合娱乐台
 https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
 https://ottproxy2.mott.tv/livehls/MOB-NGW/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",无线翡翠台
 https://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",耀才财经台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -95,99 +93,100 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",凤凰卫视电影台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",广州新闻
 http://149.129.100.78/gztv.php?id=xinwen
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州南国都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",广州南国都市
 http://149.129.100.78/gztv.php?id=shenghuo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州南国都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",广州南国都市
 https://iptv--iptv.repl.co/Chinese/shenghuo/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",广州综合
 http://149.129.100.78/gztv.php?id=zhonghe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 1
 http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 1
 http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 1
 https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 1
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 2
 http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 2
 https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 2
 https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",AST TV 2
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Miami TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Miami TV Jenny Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Miami TV Latino
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MILF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",MILF
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NYX 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",NYX 1
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NYX 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",NYX 2
 https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 1
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 10
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 11
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 12
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 14
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 15
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 16
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 2
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 3
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 4
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 5
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 6
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 7
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",RedTraffic 8
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Super One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Super One
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Visit-X TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Visit-X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Visit-X TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Visit-X TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="18xxx",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
