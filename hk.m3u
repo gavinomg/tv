@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
-http://120.84.96.160:808/hls/25/index.m3u8
+http://113.64.147.183:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="Sports",广东体育
 http://120.84.96.160:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
