@@ -1,253 +1,193 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
-http://113.64.147.183:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="Sports",广东体育
-http://120.84.96.160:808/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
-https://play.sngdxsn.com/live/eefbac50d8b2653dd37c288e7dbb9fa3.flv
-#EXTINF:-1 tvg-id="126" tvg-name="J2" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="香港",J2
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
+http://113.64.147.183:808/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
+http://py.fatcat.icu:8880/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="明珠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/pearl.jpg" group-title="香港",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="无线财经台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="香港",无线财经台
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经台
 https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV 96
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 96
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV 99
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV 99
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",HK开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",HK开电视
 https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/gdty.jpg" group-title="Sports",广东体育
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBALive1
-http://bf.moonmagic.cn/live/hd-en-2-3602768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive2" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBALive2
-https://pull.sdsft.cn/live/hd-en-2-3602768_hd.m3u8?auth_key=1672416000-88-0-42c29f327596876356fca11c483bc691
-#EXTINF:-1 tvg-id="" tvg-name="ESPN NBALive3" tvg-country="US" tvg-language="US" tvg-logo="" group-title="Sports",ESPN NBALive3
-https://lived.ali.huoxinglaike.com/live/streamhd5218542.m3u8?auth_key=1623299700-8a95b64d629c44d08ead7553d5142100-0-270a296f6299f19327a885634812f90c
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="Sports",CCTV中国中央电视台-5+ 体育赛事
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="AoShiAoMen.cn" tvg-name="澳视澳门" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳视澳门 (720p)
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5,CCTV5
+http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门 (720p)
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-id="AoMen1.cn" tvg-name="澳门1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳门1 (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门1 (720p)
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-id="AoMen2.cn" tvg-name="澳门2" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",澳门2 (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门2 (720p)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳视综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视综艺
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门卫星频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门卫星频道
 http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="澳门",澳门
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门
 http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="香港",TVB翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg.png" group-title="香港",TVB翡翠台
-http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港",无线新闻台
-https://flv3948069e.live.126.net/live/a4d36d7c6a654d82d6ce02cf737e3a55.flv
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="香港",无线新闻台
-http://wowza-live.edge-mo.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1593316624~exp=1593403024~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=2d4c76fec1590abbaebaaa64c02f0df00685c3d841bcffcdf35e237e327042c3
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV 96
-http://hls.globaliptv.ml/viu96.php
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV 99
-http://hls.globaliptv.ml/viu99.php
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk31.jpg" group-title="香港",港台电视RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rhk32.jpg" group-title="香港",港台电视RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",C+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",C+
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",[粤语|香港] 有线 新闻1
-https://flv3948069e.live.126.net/live/e5a9b3ea96469edf8feaa3738352605a.flv
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",[粤语|香港] 有线 新闻
-https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港",[粤语|香港] 有线 新闻 ★
-https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",HK开电视(需代理)
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="6113" tvg-name="" tvg-logo="" group-title="日本",nhk华语
-https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="" tvg-logo="" group-title="日本",nhk英语新闻
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",日本全天新闻
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东体育
-https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=3ae53b64cabb679057730ab78b69fcd5-UZbZVNEaM7DGvM%2BjJ8Wn3%2B8dkSmYMxJg3lvJznvQD%2FpXrhadutTQG7BVVDBb01a%2BRIncFx3PN3Hjvj4adLMwaSg1%2FLy8qv6aTfFCL4XBHKoeo%2FCLosA7H7tJv%2BeqSKCsLwoIF%2BIDjBmEDZCRqkfCP%2BUEKohgYqvBvIbNzGSqvfhbXU30xiX8oL7SCjDJc4JE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东珠江
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=4b90da3c8bc350ea13ae7c4302e077a2-07QhJwEhiygC0dCAQ5g%2BcwDPnk%2FwS%2FQ7BBz9X6M0PhvMFykexdDdBqe70yaMJ8B4TnLa39PggbbVpCi%2FAdRZQBXPbAY%2FQ01byxGUsDz8nhGr2ov9yfUtdhSQpsAEuZvjyYW4ooFVuWrDeIvyScyXrYXgiURzzntq3EXPbzQvx%2BonV1e3JbsELgngabLeJp8D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东新闻
-https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=c6892707e285cf88dd847c0e7b4833f6-0kXCRdCRkoVIWC1HNH2Mleo58GHlSkJB936I%2BnqSBWEQzCLcDJ75Nc%2BNs%2FIU58%2Foo1mzvob2Btl%2F5ix5e8LRjXLV4%2FU0bfY3h7EAnsuifoDcM97spQvaK35M1Vaowh3Zd17usjJKZLvM6YVv9IQcDzYK6Fc8RrcsQwlJeQnuZf1%2F5wuvJwhsnwP7LVZkh6Eh
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",有线综合娱乐
-https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="大陆",湖南卫视
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="香港",ATV台
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="大陆",CCTV中国中央电视台-5 体育
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-country="HK" tvg-url="" group-title="Movies",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="大陆",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="大陆",浙江卫视
-http://111.40.205.87/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="大陆",湖南卫视
-http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" tvg-country="MO" tvg-url="" group-title="澳门",澳視澳門
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://39.134.66.2/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳视澳门
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese;Portuguese" tvg-logo="https://i.imgur.com/59lAsao.png" tvg-country="MO" tvg-url="" group-title="澳门",澳門-MACAU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门-MACAU
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/640px-TDM_Entertainment.png" tvg-country="MO" tvg-url="" group-title="",澳門綜藝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门综艺
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" tvg-country="MO" tvg-url="" group-title="澳门",澳門資訊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",澳门资讯
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="香港",A1台
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/PtG4GsH.jpg" tvg-country="HK" tvg-url="" group-title="香港",C+頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",C+频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-country="HK" tvg-url="" group-title="Movies",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-country="HK" tvg-url="" group-title="Music",Channel [V]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Channel
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="Sport",Star Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-country="HK" tvg-url="" group-title="Movies",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/1wbOhJV.jpg" tvg-country="HK" tvg-url="" group-title="Travel",亞旅衛視
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" tvg-country="HK" tvg-url="" group-title="General",星空衛視
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://www.easyatm.com.tw/img/f/458/nBnauM3XzYDO1IzM5cTMxMzM1UTM1QDN5MjM5ADMwAjMwUzL3EzL1UzLt92YucmbvRWdo5Cd0FmLyE2LvoDc0RHa.jpg" tvg-country="HK" tvg-url="" group-title="News",有線新聞台
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://ottproxy2.mott.tv/livehls:cmi/MOB-SCC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a8/I-Cable_Family_Ent.jpg" tvg-country="HK" tvg-url="" group-title="",有線綜合娛樂台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有线综合娱乐台
 https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" tvg-country="HK" tvg-url="" group-title="",有線財經資訊台
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
 https://ottproxy2.mott.tv/livehls/MOB-NGW/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-country="HK" tvg-url="" group-title="General",港台電視31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="News",港台電視32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",港台电视32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/SSKnv5j.jpg" tvg-country="HK" tvg-url="" group-title="General",無線翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",无线翡翠台
 https://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" tvg-country="HK" tvg-url="" group-title="Shop",耀才財經台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" tvg-country="HK" tvg-url="" group-title="",香港衛視
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" tvg-country="HK" tvg-url="" group-title="General",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="News",鳳凰衛視資訊台HD
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" tvg-country="HK" tvg-url="" group-title="",鳳凰衛視電影台
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",凤凰卫视电影台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="GuangZhouXinWen.cn" tvg-name="广州新闻" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州新闻
 http://149.129.100.78/gztv.php?id=xinwen
-#EXTINF:-1 tvg-id="GuangZhouNanGuoDuShi.cn" tvg-name="广州南国都市" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州南国都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州南国都市
 http://149.129.100.78/gztv.php?id=shenghuo
-#EXTINF:-1 tvg-id="GuangZhouNanGuoDuShi.cn" tvg-name="广州南国都市" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州南国都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州南国都市
 https://iptv--iptv.repl.co/Chinese/shenghuo/
-#EXTINF:-1 tvg-id="GuangZhouZongHe.cn" tvg-name="广州综合" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州综合
 http://149.129.100.78/gztv.php?id=zhonghe
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",CCTV-1
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV中国中央电视台-1 综合
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",ANAL
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
 http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
 http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
 https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 1
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
 http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
 https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
 https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",AST TV 2
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Jenny Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" tvg-country="US" tvg-url="" group-title="XXX",Miami TV Latino
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",MILF HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MILF
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NYX 1
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NYX 2
 https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 1
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 10
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 11
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 12
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 14
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 15
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 16
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 2
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 3
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 4
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 5
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 6
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 7
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",RedTraffic 8
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/JgcUO21.jpg" tvg-country="HU" tvg-url="" group-title="XXX",Super One HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Super One
 http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-country="NL" tvg-url="" group-title="XXX",Visit-X TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Visit-X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-country="NL" tvg-url="" group-title="XXX",Visit-X TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" tvg-country="NL" tvg-url="" group-title="XXX",Visit-X TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
