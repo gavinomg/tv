@@ -1,0 +1,19 @@
+[
+  {
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "domain": [
+      "youku.com",
+      "iqiyi.com",
+      "mgtv.com",
+      "qq.com"
+    ],
+    "enabled": true
+  },
+  {
+    "port": "0-65535",
+    "inboundTag": [],
+    "outboundTag": "direct",
+    "enabled": true
+  }
+]
