@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
+http://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 http://162.19.247.76:22222/live/tvbfc/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 http://120.84.96.87:808/hls/25/index.m3u8
@@ -9,8 +11,6 @@ http://120.84.96.73:808/hls/25/index.m3u8
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 https://pull-l3-cny.douyincdn.com/live/stream-13935018202305021000.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
