@@ -36,7 +36,7 @@ http://mqiptv.com:8014/ch/custom76/mqlive.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5,CCTV5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳视澳门 (720p)
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门1 (720p)
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门2 (720p)
