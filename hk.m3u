@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-https://yeslivetv.com/hls/memfs/27eff6fe-9aa2-4e17-a197-cff54c342a0b.m3u8
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-http://cdn.hkdtmb.com/hls/81/index.m3u8
+https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-http://r.jdshipin.com/62WM7
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-http://183.238.66.1:9090/live/1350_4500.m3u8?t=sR29weA3vx5dfXDK4B18Mw==&u=freeuser&cid=1332&d=b9fe6157aedccb24&sid=Tjjk90KNPfhHTx8SvBzTww==&r=20231025175715&e=20231025235720&nc=n6MGGQSGvNS9&a=7&v=2&starttime=&endtime=&isSuma=1&hlsSessionID=1429613102047642255&srchost=172.16.149.181:8060&gid=CQU9qw6c7BH0%2FuJ1NRXvZQ%3D%3D
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
 https://pull-l3-cny.douyincdn.com/live/stream-13935018202305021000.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
