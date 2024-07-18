@@ -1,184 +1,120 @@
 {
   "log": {
-    "level": "debug",
+    "disabled": false,
+    "level": "info",
+    "output": "sing-box.log",
     "timestamp": true
   },
   "dns": {
     "servers": [
       {
-        "tag": "proxyDns",
-        "address": "https://8.8.8.8/dns-query",
-        "detour": "proxy"
+        "tag": "alidns",
+        "address": "https://dns.alidns.com/dns-query",
+        "address_resolver": "cf",
+        "address_strategy": "prefer_ipv4",
+        "strategy": "ipv4_only",
+        "detour": "direct"
       },
       {
-        "tag": "localDns",
-        "address": "https://223.5.5.5/dns-query",
+        "tag": "cf",
+        "address": "https://1.1.1.1/dns-query",
+        "strategy": "ipv4_only",
         "detour": "direct"
       },
       {
         "tag": "block",
         "address": "rcode://success"
-      },
-      {
-        "tag": "remote",
-        "address": "fakeip"
       }
     ],
     "rules": [
       {
+        "geosite": [
+          "cn"
+        ],
         "domain": [
-          "ghproxy.com",
-          "cdn.jsdelivr.net",
-          "testingcf.jsdelivr.net"
+          "myChinaDnsSite.com"
         ],
-        "server": "localDns"
+        "domain_suffix": [
+          ".cn"
+        ],
+        "server": "alidns",
+        "disable_cache": false
       },
       {
-        "geosite": "category-ads-all",
-        "server": "block"
-      },
-      {
-        "outbound": "any",
-        "server": "localDns",
+        "geosite": [
+          "category-ads-all"
+        ],
+        "server": "block",
         "disable_cache": true
-      },
-      {
-        "geosite": "cn",
-        "server": "localDns"
-      },
-      {
-        "clash_mode": "direct",
-        "server": "localDns"
-      },
-      {
-        "clash_mode": "global",
-        "server": "proxyDns"
-      },
-      {
-        "geosite": "geolocation-!cn",
-        "server": "proxyDns"
-      },
-      {
-        "query_type": [
-          "A",
-          "AAAA"
-        ],
-        "server": "remote"
       }
     ],
-    "fakeip": {
-      "enabled": true,
-      "inet4_range": "198.18.0.0/15",
-      "inet6_range": "fc00::/18"
-    },
-    "independent_cache": true,
-    "strategy": "ipv4_only"
+    "final": "cf",
+    "strategy": "",
+    "disable_cache": false,
+    "disable_expire": false
   },
   "inbounds": [
     {
+      "tag": "tun-in",
       "type": "tun",
+      "interface_name": "utun",
       "inet4_address": "172.19.0.1/30",
-      "mtu": 9000,
       "auto_route": true,
       "strict_route": true,
+      "stack": "gvisor",
+      "mtu": 9000,
       "sniff": true,
-      "endpoint_independent_nat": false,
-      "stack": "system",
-      "platform": {
-        "http_proxy": {
-          "enabled": true,
-          "server": "127.0.0.1",
-          "server_port": 2080
-        }
-      }
-    },
-    {
-      "type": "mixed",
-      "listen": "127.0.0.1",
-      "listen_port": 2080,
-      "sniff": true,
-      "users": []
+      "sniff_timeout": "300ms",
+      "domain_strategy": "",
+      "udp_timeout": 300
     }
   ],
-// 以下部分地方需要根据自己配置的信息进行修改//
   "outbounds": [
     {
       "tag": "proxy",
-      "type": "selector",
-      "outbounds": [
-        "auto",
-        "direct",
-        "MO1", // 修改名称1
-        "MO2" // 修改名称2
-      ]
-    },
-    {
-      "tag": "auto",
-      "type": "urltest",
-      "outbounds": [
-        "MO1", // 修改名称1
-        "MO2" // 修改名称2
-      ],
-      "url": "http://www.gstatic.com/generate_204",
-      "interval": "1m",
-      "tolerance": 50
+      "type": "vless",
+      "server": "mo.luckyzzp.xyz",
+      "server_port": 1130,
+      "uuid": "f932c607-5033-4329-c3bb-bcc5452d84ad",
+      "flow": "xtls-rprx-vision",
+      "network": "tcp",
+      "packet_encoding": "xudp",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.tvb.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM",
+          "short_id": "fb511a75"
+        }
+      }
     },
     {
       "type": "direct",
       "tag": "direct"
     },
     {
-      "type": "dns",
-      "tag": "dns-out"
-    },
-    {
       "type": "block",
       "tag": "block"
     },
     {
-      "tag": "MO1", // 修改名称1
-      "type": "vless",
-      "server": "shopify.com", //优选ip或 域名
-      "server_port": 80,
-      "uuid": "667b8e1f-8a46-4b14-b5e8-296a96da9313", //修改uuid
-      "packet_encoding": "tcp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "mo.luckyzzp.xyz:1129" //修改成自己host
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
-    },
-    {
-      "tag": "MO2", // 修改名称2
-      "type": "vless",
-      "server": "shopify.com", //优选ip或 域名
-      "server_port": 80,
-      "uuid": "f932c607-5033-4329-c3bb-bcc5452d84ad", //修改uuid
-      "packet_encoding": "tcp",
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "mo.luckyzzp.xyz:1130" //修改成自己host
-        },
-        "early_data_header_name": "Sec-WebSocket-Protocol",
-        "max_early_data": 2048
-      }
+      "type": "dns",
+      "tag": "dns-out"
     }
   ],
   "route": {
-    "auto_detect_interface": true,
-    "final": "proxy",
     "geoip": {
-      "download_url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.db",
+      "path": "geoip.db",
+      "download_url": "https://github.com/SagerNet/sing-geoip/releases/latest/download/geoip.db",
       "download_detour": "direct"
     },
     "geosite": {
-      "download_url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.db",
+      "path": "geosite.db",
+      "download_url": "https://github.com/SagerNet/sing-geosite/releases/latest/download/geosite.db",
       "download_detour": "direct"
     },
     "rules": [
@@ -187,40 +123,40 @@
         "outbound": "dns-out"
       },
       {
-        "network": "udp",
-        "port": 443,
-        "outbound": "block"
-      },
-      {
-        "clash_mode": "direct",
-        "outbound": "direct"
-      },
-      {
-        "clash_mode": "global",
+        "domain": [
+          "myProxy.com"
+        ],
         "outbound": "proxy"
       },
       {
         "domain": [
-          "clash.razord.top",
-          "yacd.metacubex.one",
-          "yacd.haishan.me",
-          "d.metacubex.one"
+          "myDirect.com"
         ],
         "outbound": "direct"
+      },
+      {
+        "geosite": [
+          "cn",
+          "private"
+        ],
+        "geoip": [
+          "cn",
+          "private"
+        ],
+        "domain_suffix": [
+          ".cn"
+        ],
+        "outbound": "direct"
+      },
+      {
+        "geosite": [
+          "category-ads-all"
+        ],
+        "outbound": "block"
       }
-    ]
+    ],
+    "auto_detect_interface": true,
+    "final": "proxy"
   },
-  "experimental": {
-    "clash_api": {
-      "external_controller": "127.0.0.1:9090",
-      "external_ui_download_url": "",
-      "external_ui_download_detour": "",
-      "external_ui": "ui",
-      "secret": "",
-      "default_mode": "rule",
-      "store_selected": true,
-      "cache_file": "",
-      "cache_id": ""
-    }
-  }
+  "experimental": {}
 }
