@@ -69,12 +69,12 @@
        "tag": "select",
        "type": "selector",
        "default": "自动选择",
-       "outbounds": {
+       "outbounds": [
          "自动选择",
          "MO1",
          "MO2",  
          "GZ3"
-      }
+      ]
     },
     {
         "type": "vless",
