@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOV",默杀
 https://t20m.nboku.com/20240916/Viw7ZLM4/index.m3u8?sign=80l1h9I2AuHNiE4O1P%252BMTKavAUUKyRKcGdl36%252F99Yis%253D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOV",红毯先生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOV",红毯先生(刘德华)
 https://t20m.nboku.com/20240817/1aVQEASB/index.m3u8?sign=BdIWrQfMf3%252F4PHzO4Zk%252FY5aiqsj0LeG6qmZFI3nKxuE%253D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOV",传说2024(成龙)
 https://m3u8.heimuertv.com/play/057d46e9b0594ba9afda9222a90f92ed.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOV",解密(刘昊然、陈道明、吴彦祖)
+https://europe.olemovienews.com/ts3/20240920/noqpdIdb/mp4/noqpdIdb.mp4/master.m3u8
