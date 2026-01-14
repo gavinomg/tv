@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",翡翠台
+http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",明珠台
+http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广东深圳市",翡翠台
+http://116.77.239.26:44300/tsfile/live/0141_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广东深圳市",明珠台
+http://116.77.239.26:44300/tsfile/live/0112_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 #EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",CCTV-1
 http://183.62.8.58:50085/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",CCTV-2
@@ -29,10 +37,6 @@ http://183.62.8.58:50085/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;a
 http://183.62.8.58:50085/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",CCTV-15
 http://183.62.8.58:50085/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",翡翠台
-http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",明珠台
-http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",广东卫视
 http://183.62.8.58:50085/tsfile/live/0019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广州市 广东电信",广东珠江
@@ -203,10 +207,6 @@ http://116.77.239.26:44300/tsfile/live/0116_2.m3u8?key=txiptv&amp;playlive=0&amp
 http://116.77.239.26:44300/tsfile/live/0136_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广东深圳市",重温经典
 http://116.77.239.26:44300/tsfile/live/0118_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广东深圳市",翡翠台
-http://116.77.239.26:44300/tsfile/live/0141_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广东深圳市",明珠台
-http://116.77.239.26:44300/tsfile/live/0112_1.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 #EXTINF:-1 tvg-id="Channel [V]" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广东深圳市",Channel [V]
 http://116.77.239.26:44300/tsfile/live/0118_2.m3u8?key=txiptv&amp;playlive=0&amp;authid=0
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="广东深圳市",凤凰卫视中文台
