@@ -6,6 +6,8 @@ http://116.77.239.26:44300/tsfile/live/0141_1.m3u8?key=txiptv&amp;playlive=0&amp
 #EXTINF:-1 tvg-name="广东广州翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytv",广东广州翡翠台
 http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytv",翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytv",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytv",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
@@ -213,3 +215,4 @@ http://o11.163189.xyz/stream/tvb/fct/
 http://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(多音轨字幕)
 http://o11.163189.xyz/stream/tvb/mzt/
+
