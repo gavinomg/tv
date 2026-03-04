@@ -36,7 +36,7 @@ http://116.77.239.26:44300/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=0&amp
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="mytv",广东体育
 http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.cn/tv/美亚电影台.png" group-title="mytv",美亚电影台
-http://bxtv.3a.ink/api.php?id=meiya
+http://208.87.242.79/livehttpplay?channel_id=20197
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.cn/tv/美亚电影台.png" group-title="mytv",美亚电影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.cn/tv/美亚电影台.png" group-title="mytv",美亚电影台
@@ -187,5 +187,6 @@ http://o11.163189.xyz/stream/live/tvbc/
 http://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台(多音轨字幕)" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" ggroup-title="mytvb",明珠台(多音轨字幕)
 http://o11.163189.xyz/stream/tvb/mzt/
+
 
 
