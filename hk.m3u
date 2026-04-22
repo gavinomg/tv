@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="Viu TV" tvg-name="Viu TV" tvg-logo="https://live.fanmingming.cn/tv/Viu TV.png" group-title="mytvb",Viu TV
 https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytvb",翡翠台
+https://iptv.707626.xyz/live/stream-0958b9c6/master.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytvb",翡翠台
 http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytvb",翡翠台
 http://cdn6.163189.xyz/163189/fct
