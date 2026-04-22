@@ -31,6 +31,10 @@ http://o11.163189.xyz/stream/tvb/fct4k/
 http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="mytvb",无线新闻台
 http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png" group-title="mytvb",Now爆谷台
+https://iptv.707626.xyz/live/stream-now-91y5/master.m3u8
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png" group-title="mytvb",Now星影台
+https://iptv.707626.xyz/live/stream-now-x1vz/master.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="广东广州明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="mytvb",明珠台
 http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-id="明珠台" tvg-name="广东深圳明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="mytvb",明珠台
