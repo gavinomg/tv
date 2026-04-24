@@ -1,5 +1,7 @@
 #EXTM3U tvg-url="https://epg.iill.top/epg.xml"
-#EXTINF:-1 tvg-id="Viu TV" tvg-name="Viu TV" tvg-logo="https://live.fanmingming.cn/tv/Viu TV.png" group-title="mytvb",Viu TV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.cn/tv/ViuTV.png" group-title="mytvb",ViuTV
 http://20.10.0.66:8080/live/tvb_finance/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytvb",翡翠台
 http://20.10.0.66:8080/live/source_1776994309/stream.m3u8
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="mytvb",无线新闻台
+http://20.10.0.66:8080/live/source_1777006001/stream.m3u8
