@@ -1,4 +1,5 @@
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4256000,RESOLUTION=1920x1080,FRAME-RATE=25.00,CODECS="avc3.640029,mp4a.40.2,mp4a.40.2"
-https://o11.163189.xyz/stream/tvb/fct/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
+#EXTM3U tvg-url="https://epg.iill.top/epg.xml"
+#EXTINF:-1 tvg-id="Viu TV" tvg-name="Viu TV" tvg-logo="https://live.fanmingming.cn/tv/Viu TV.png" group-title="mytvb",Viu TV
+http://20.10.0.66:8080/live/tvb_finance/stream.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/TVB翡翠台.png" group-title="mytvb",翡翠台
+http://20.10.0.66:8080/live/source_1776994309/stream.m3u8
