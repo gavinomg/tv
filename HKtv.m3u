@@ -22,4 +22,4 @@ http://20.10.0.66/live/amty2/stream.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/a8fbac1841a5372178278304967c69fb.png?x-image-process=style/w250" group-title="mytvb",澳视澳门
 http://20.10.0.66/live/asam/stream.m3u8
 #EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-news-hk.png" group-title="mytvb",Now新闻
-http://20.10.0.66/live/asam/stream.m3u8
+http://20.10.0.66/live/nownews/stream.m3u8
