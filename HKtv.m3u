@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/viu-tv-hk.png" group-title="mytvb",ViuTV
 http://20.10.0.66:8080/live/tvb_finance/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/tvb-jade-hk.png" group-title="mytvb",翡翠台
-http://20.10.0.66/live/tvb_fct/stream.m3u8
+http://20.10.0.66/live/fct/stream.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/tvb-news-channel-hk.png" group-title="mytvb",无线新闻台
-http://20.10.0.66:8080/live/source_1777006001/stream.m3u8
+http://20.10.0.66/live/wxxwt/stream.m3u8
