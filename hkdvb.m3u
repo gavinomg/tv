@@ -25,3 +25,5 @@ http://www.luckyzzp.xyz:28034/live/amty2/stream.m3u8
 http://www.luckyzzp.xyz:28034/live/asam/stream.m3u8
 #EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/now-news-hk.png" group-title="mytvb",Now新闻
 http://www.luckyzzp.xyz:28034/live/nownews/stream.m3u8
+#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/matv-movie-channel-hk.png" group-title="mytvb",美亚电影台
+http://www.luckyzzp.xyz:28034/live/meiya/stream.m3u8
